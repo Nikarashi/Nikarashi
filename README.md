@@ -43,8 +43,12 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
+    <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_static/logo_dark.svg" alt="matplotlib" width="40" height="40"/>
+</a>
+
   </a>
 </a>
 
