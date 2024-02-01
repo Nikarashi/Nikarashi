@@ -44,6 +44,11 @@
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  </a>
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/>
+</a>
+
 </a>
 
 </p>
