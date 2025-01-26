@@ -1,6 +1,7 @@
 
 # Welcome! I'm Nikita 👋
-[![Nikarashi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikarashi&theme=high-contrast)](https://github.com/Nikarashi/github-readme-activity-graph)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Nikarashi)](https://leetcode.com/Nikarashi)
+
 
 
 ## 🔗 Links
