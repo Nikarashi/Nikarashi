@@ -1,6 +1,6 @@
 
 # Welcome! I'm Nikita 👋
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Nikarashi)](https://leetcode.com/Nikarashi)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Nikarashi?ext=heatmap)](https://leetcode.com/Nikarashi)
 
 
 
