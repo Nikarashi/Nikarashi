@@ -7,3 +7,4 @@ I’m Nikita, a machine learning enthusiast and powerlifting athlete. Currently,
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mizoroki-heck/)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nikarashi)
+[![Telegram_chanel](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brainmuscleML)
