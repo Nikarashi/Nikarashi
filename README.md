@@ -1,7 +1,7 @@
 
 # Welcome! I'm Nikita 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nikarashi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nikarashi&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Nikarashi)](https://github.com/KnlnKS/leetcode-stats)
 
 
 ## 🔗 Links
